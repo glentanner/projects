@@ -16,16 +16,16 @@ This script is a starting point for building more complex tools to handle struct
 Make sure you have Python 3 installed. To run the starter script:
 
 ```bash
-python3 file_reader.py
+python3 read_file.py
 ```
 
-(Replace `file_reader.py` with the actual name of your script.)
+(Replace `read_file.py` with the actual name of your script.)
 
 ## Folder Structure
 
 ```
 projects/
-├── file_reader.py          # Prompts user to choose a file and prints it
+├── read_file.py            # Prompts user to choose a file and prints it
 ├── another_script.py       # Future script placeholder
 ├── yet_another_tool.py     # More automation to come
 └── ...
